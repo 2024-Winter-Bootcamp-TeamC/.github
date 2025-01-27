@@ -24,14 +24,15 @@
 
  🔗 URL
 
+
 ## 🎥 Demo
 |**로그인 페이지**|**카테고리 선택 페이지**|
 |:-------------------:|:---------:|
 |<img width="390" height="220" alt="Login Page" src="https://github.com/user-attachments/assets/04311237-9685-4c18-8f12-bae7fdfaf589">|<img width="390" height="220" alt="category Page" src="https://github.com/user-attachments/assets/eae71d20-96f1-4d62-b552-70ccf42b73a3">|
 |**상황 설명 및 사진 업로드 페이지**|**7개 감정 한줄평 페이지**|
-|<img width="390" height="220" alt="content Page1" src="https://github.com/user-attachments/assets/7e314c84-7aa4-48d3-b038-2f72861ab2c5">|<img width="390" height="220" alt="seven ai Page2" src="(비디오 주소)">|
+|<img width="390" height="220" alt="content Page1" src="https://github.com/user-attachments/assets/7e314c84-7aa4-48d3-b038-2f72861ab2c5">|<img width="390" height="220" alt="seven ai Page2" src="https://github.com/user-attachments/assets/94b18db5-3526-4f46-8d27-fd32d6c20617">|
 |**기본 대화 페이지**|**토론 대화 페이지**|
-|<img width="390" height="220" alt="Conversations Page3" src="(비디오 주소)">|<img width="390" height="220" alt="Debate Page" src="(비디오 주소)">|
+|<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/67a7c719-9aef-4a14-adf5-381aba1bd891">|<img width="390" height="220" alt="Debate Page" src="(비디오 주소)">|
 |**리포트 페이지**|**리포트 리스트 페이지**|
 |<img width="390" height="220" alt="report Page" src="(비디오 주소)">|<img width="390" height="220" alt="report list Page" src="(비디오 주소)">|
 
