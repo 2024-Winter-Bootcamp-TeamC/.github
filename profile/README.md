@@ -32,7 +32,7 @@
 |**상황 설명 및 사진 업로드 페이지**|**7개 감정 한줄평 페이지**|
 |<img width="390" height="220" alt="content Page1" src="https://github.com/user-attachments/assets/7e314c84-7aa4-48d3-b038-2f72861ab2c5">|<img width="390" height="220" alt="seven ai Page2" src="https://github.com/user-attachments/assets/94b18db5-3526-4f46-8d27-fd32d6c20617">|
 |**기본 대화 페이지**|**토론 대화 페이지**|
-|<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/67a7c719-9aef-4a14-adf5-381aba1bd891">|<img width="390" height="220" alt="Debate Page" src="(비디오 주소)">|
+|<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/67a7c719-9aef-4a14-adf5-381aba1bd891">|<img width="390" height="220" alt="Debate Page" src="https://github.com/user-attachments/assets/cbfad922-aa72-44ae-bb51-ae8091f36cc6">|
 |**리포트 페이지**|**리포트 리스트 페이지**|
 |<img width="390" height="220" alt="report Page" src="(비디오 주소)">|<img width="390" height="220" alt="report list Page" src="(비디오 주소)">|
 
@@ -347,7 +347,7 @@ npm run dev
 </td>
 <td width="100" align="center">
 <a href=>
-<img src="https://github.com/user-attachments/assets/1d22cba8-4bfd-4aeb-bda0-84cbb51e490b" width="120" height="160">
+<img src="https://github.com/user-attachments/assets/6edb1cb6-f415-4958-871b-6178db3329b4" width="120" height="160">
 </a>
 </td>
 <td width="100" align="center">
@@ -385,7 +385,6 @@ npm run dev
 <td width="150" height="20" align="center">
 Team Leader<br>
 Frontend<br>
-Backend<br>
 </td>
 <td width="150" align="center">
 Frontend<br>
