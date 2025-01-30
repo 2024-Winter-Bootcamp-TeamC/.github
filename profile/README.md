@@ -42,7 +42,8 @@
 
 ## 📍 System Architecture
 
-<img width="1024" alt="image" src="https://github.com/user-attachments/assets/6a7a4649-38a4-4231-b1a0-86ce56c456fe" />
+<img width="1034" alt="image" src="https://github.com/user-attachments/assets/8b883a81-a272-4ed9-aefc-97d3d4f469bc" />
+
 
 
 ## 🛠 Tech stack
