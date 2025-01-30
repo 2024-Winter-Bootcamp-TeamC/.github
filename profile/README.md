@@ -34,7 +34,7 @@
 |**기본 대화 페이지**|**토론 대화 페이지**|
 |<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/67a7c719-9aef-4a14-adf5-381aba1bd891">|<img width="390" height="220" alt="Debate Page" src="https://github.com/user-attachments/assets/cbfad922-aa72-44ae-bb51-ae8091f36cc6">|
 |**리포트 페이지**|**리포트 리스트 페이지**|
-|<img width="390" height="220" alt="report Page" src="(비디오 주소)">|<img width="390" height="220" alt="report list Page" src="(비디오 주소)">|
+|<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/d3067246-2b88-4666-84c1-2840f1829393">|<img width="390" height="220" alt="report list Page" src="(비디오 주소)">|
 
 
 <br>
