@@ -41,8 +41,9 @@
 
 
 ## 📍 System Architecture
-사진 수정 필요
-![image](https://github.com/user-attachments/assets/68e39170-d765-4f8a-b9cc-1cbc8cbf29db)
+
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/6a7a4649-38a4-4231-b1a0-86ce56c456fe" />
+
 
 ## 🛠 Tech stack
 <br>
