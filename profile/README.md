@@ -70,27 +70,32 @@
 &nbsp;&nbsp;Grafana & Prometheus
 <table align="center" style="border-collapse: collapse;">
    <tr>
-    <td align="center"><b>Docker Dashboard</b></td>
+    <td align="center" colspan="2">
+      <b>Cadvisor Dashboard</b><br>
+      <img src="https://github.com/user-attachments/assets/5ff30dae-603f-44b0-be5a-92a935916ae6" style="width: 100%; max-width: 1200px; height: auto;">
+    </td>
+  </tr>
+   <tr>
     <td align="center"><b>FastAPI Dashboard</b></td>
+    <td align="center"><b>MySQL Dashboard</b></td>
+   </tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/24d225ec-c249-4b27-bf2f-f89b8bf4914a" alt="Docker Dashboard" style="width: 800px; height: 300px;">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/726b4749-c497-4ebf-8f0e-56d1cfc77e52" alt="Docker Dashboard" style="width: 800px; height: 300px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Redis Dashboard</b></td>
+    <td align="center"><b>NginX Dashboard</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="(모니터링 사진)" style="width: 800px; height: 300px;">
+      <img src="https://github.com/user-attachments/assets/3105f2fa-8fe8-4691-aaae-420bb200055f" alt="Docker Dashboard" style="width: 800px; height: 300px;">
     </td>
     <td align="center">
-      <img src="(모니터링 사진)" alt="Docker Dashboard" style="width: 800px; height: 300px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b> Dashboard</b></td>
-    <td align="center"><b>FastAPI Dashboard</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="(모니터링 사진)" alt="Docker Dashboard" style="width: 800px; height: 300px;">
-    </td>
-    <td align="center">
-      <img src="(모니터링 사진)" alt="Docker Dashboard" style="width: 800px; height: 300px;">
+      <img src="https://github.com/user-attachments/assets/a52f5d33-ec99-4244-9d9a-683c50ca0134" alt="Docker Dashboard" style="width: 800px; height: 300px;">
     </td>
   </tr>
 </table>
