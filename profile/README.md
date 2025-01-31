@@ -22,7 +22,7 @@
 
 ## 📖 Medium
 
- 🔗 URL
+ 🔗 [My InsideOut](https://medium.com/@rudtnahs315/2024-siliconvalley-winter-bootcamp-ai%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B0%90%EC%A0%95%EB%B6%84%EC%84%9D-%EC%83%81%EB%8B%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-f06ba4d6572a)
 
 
 ## 🎥 Demo
